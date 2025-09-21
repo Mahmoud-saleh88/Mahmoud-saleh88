@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mahmoud-saleh88
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python coding
+- 👀 I’m interested in Data Science , Python , Data Analysis , Web App
+- 🌱 I’m currently working as Django developer 
 - 📫 How to reach me by e-mail
 
 <!---
